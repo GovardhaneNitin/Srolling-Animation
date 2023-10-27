@@ -38,8 +38,7 @@ Contributions are welcome! If you find any bugs or have ideas for improvements, 
 
 ## Connect with Me 🌐
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nitingovardhane/)
-- GitHub: [GitHub](https://github.com/GovardhaneNitin)
-- Email: nitingovardhane000@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nitingovardhane/)
+- [GitHub](https://github.com/GovardhaneNitin)
 
 Enjoy the smooth scroll! 🌈✨
